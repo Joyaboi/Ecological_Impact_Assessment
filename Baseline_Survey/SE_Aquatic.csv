@@ -1,0 +1,10 @@
+eventID,parentEventID,ParentEntry,eventDate,Starttime,Samplingprotocol,Samplingeffort,Samplesizevalue,Samplesizeunit,locationID,Temperature,Precipitation,Visibility,Wind,Latitude,Longitude,Percentcanopycover,Endlatitude,Endlongitude,Geodeticdatum,countryCode
+SD4FI_A,N/A,FALSE,2025-09-10,12:00,Kick_sampling,10_minutes,5 x 30,Heel_Clicks ,West,N/A,Light ,High,Medium,N55 41.854,W005 16.439,60,N/A,N/A,WGS84,GB
+SU4FI_A,N/A,FALSE,2025-09-10,14:11,Kick_sampling,10_minutes ,5 x 30 ,Heel_Clicks ,West,N/A,Heavy ,Medium,High,N55 41.828,W005 16.382,20,N/A,N/A,WGS84,GB
+NU3FI_A,N/A,FALSE,2025-09-11,17:20,Kick_sampling,20_minutes,5 x 30,Heel_Clicks ,West,N/A,None,High,Low,N55 42.464,W005 17.036,75,N/A,N/A,WGS84,GB
+ND4FI_A,N/A,FALSE,2025-09-11,16:20,Kick_sampling,30_minutes,5 x 30,Heel_Clicks ,West,N/A,None,High,Low,N55 42.444,W005 17.068,90,N/A,N/A,WGS84,GB
+ND4FI_B,N/A,FALSE,2025-09-12,9:45,Net_dipping,25_minutes,5 x 30 ,Swivels ,East,N/A,none,High,Medium,N55 42.174,W005 15.983,45,N/A,N/A,WGS84,GB
+NU3FI_B,N/A,FALSE,2025-09-12,10:26,Net_dipping,16_minutes ,5 x 30 ,Swivels ,East,N/A,Light ,High,Low,N55 42.261,W005 16.032,80,N/A,N/A,WGS84,GB
+SD4FI_B,N/A,FALSE,2025-09-11,13:40,Sweep_netting,50_minutes,5 x 1,Sweep ,Bog ,N/A,None,High,Low,N55 41.802,W005 16.876,0,N/A,N/A,WGS84,GB
+SU4FI_B,N/A,FALSE,2025-09-11,14:45,Net_dipping,30_minutes,5 x 30 ,Swivels ,Bog Stream,N/A,None,High,Low,,,70,N/A,N/A,WGS84,GB
+,,,,,,,,,,,,,,,,,,,,

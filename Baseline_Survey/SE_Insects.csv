@@ -1,0 +1,75 @@
+eventID,parentEventID,ParentEntry,eventDate,Starttime,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,Temperature,Precipitation,Visibility,Wind,Latitude,Longitude,Percentcanopycover,Endlatitude,Endlongitude,geodeticDatum,countryCode
+S3TIP_A,S3TIP,TRUE,2025-09-09,15:00,Pit _fall_trap ,24 _hours,540,Metres^2,South_hill,13,Light,High,Low,N55 42.027,W005 17.134,,,,WGS84,GB
+S3TIP_B,S3TIP,TRUE,2025-09-09,15:00,Pit _fall_trap ,24 _hours,540,Metres^2,South_hill,13,Light,High,Low,N55 42.003,W005 17.094,,,,WGS84,GB
+S3TIP_C,S3TIP,TRUE,2025-09-09,15:00,Pit _fall_trap ,24 _hours,540,Metres^2,South_hill,13,Light,High,Low,N55 41.979,W005 17.065,,,,WGS84,GB
+S3TIP_D,S3TIP,TRUE,2025-09-09,15:00,Pit _fall_trap ,24 _hours,540,Metres^2,South_hill,13,Light,High,Low,N55 41.949,W005 17.042,,,,WGS84,GB
+S3TIP_E,S3TIP,TRUE,2025-09-09,15:00,Pit _fall_trap ,24 _hours,540,Metres^2,South_hill,13,Light,High,Low,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIP_F,S3TIP,TRUE,2025-09-09,15:00,Pit _fall_trap ,24 _hours,540,Metres^2,South_hill,13,Light,High,Low,N55 41.902,W005 16.956,,,,WGS84,GB
+S3TIP_G,S3TIP,TRUE,2025-09-09,15:00,Pit _fall_trap ,24 _hours,540,Metres^2,South_hill,13,Light,High,Low,N55 41.907,W005 16.884,,,,WGS84,GB
+S3TIP_H,S3TIP,TRUE,2025-09-09,15:00,Pit _fall_trap ,24 _hours,540,Metres^2,South_hill,13,Light,High,Low,N55 41.862,W005 16.861,,,,WGS84,GB
+S3TIP_I,S3TIP,TRUE,2025-09-09,15:00,Pit _fall_trap ,24 _hours,540,Metres^2,South_hill,13,Light,High,Low,N55 41.843,W005 16.821,,,,WGS84,GB
+S3TIP_J,S3TIP,TRUE,2025-09-09,15:00,Pit _fall_trap ,24 _hours,540,Metres^2,South_hill,13,Light,High,Low,N55 41.828,W005 16.810,,,,WGS84,GB
+S3TIN_A,S3TIN,TRUE,2025-09-10,11:00,Sweep_net,30_seconds,540,Metres^2,South_hill,14,Moderate,Medium,Medium,N55 42.027,W005 17.134,,,,WGS84,GB
+S3TIN_B,S3TIN,TRUE,2025-09-10,11:00,Sweep_net,30_seconds,540,Metres^2,South_hill,14,Moderate,Medium,Medium,N55 42.003,W005 17.094,,,,WGS84,GB
+S3TIN_C,S3TIN,TRUE,2025-09-10,11:00,Sweep_net,30_seconds,540,Metres^2,South_hill,14,Moderate,Medium,Medium,N55 41.979,W005 17.065,,,,WGS84,GB
+S3TIN_D,S3TIN,TRUE,2025-09-10,11:00,Sweep_net,30_seconds,540,Metres^2,South_hill,14,Moderate,Medium,Medium,N55 41.949,W00 17.042,,,,WGS84,GB
+S3TIN_E,S3TIN,TRUE,2025-09-10,11:00,Sweep_net,30_seconds,540,Metres^2,South_hill,14,Moderate,Medium,Medium,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIN_F,S3TIN,TRUE,2025-09-10,11:00,Sweep_net,30_seconds,540,Metres^2,South_hill,14,Heavy,Low,Medium,N55 41.902,W005 16.956,,,,WGS84,GB
+S3TIN_G,S3TIN,TRUE,2025-09-10,11:00,Sweep_net,30_seconds,540,Metres^2,South_hill,14,Heavy,Low,Medium,N55 41.907,W005 16.884,,,,WGS84,GB
+S3TIN_H,S3TIN,TRUE,2025-09-10,11:00,Sweep_net,30_seconds,540,Metres^2,South_hill,14,Heavy,Low,Medium,N55 41.862,W005 16.861,,,,WGS84,GB
+S3TIN_I,S3TIN,TRUE,2025-09-10,11:00,Sweep_net,30_seconds,540,Metres^2,South_hill,14,Heavy,Low,Medium,N55 41.843,W005 16.821,,,,WGS84,GB
+S3TIN_J,S3TIN,TRUE,2025-09-10,11:00,Sweep_net,30_seconds,540,Metres^2,South_hill,14,Heavy,Low,Medium,N55 41.828,W005 16.810,,,,WGS84,GB
+S2TIP_A,S2TIP,TRUE,2025-09-10,15:00,Pit _fall_trap ,24 _hours,540,Metres^2,South_hill,13,Heavy,Low,Medium,N55 41.935,W005 17.240,,,,WGS84,GB
+S2TIP_C,S2TIP,TRUE,2025-09-10,15:00,Pit _fall_trap ,24 _hours,540,Metres^2,South_hill,13,Heavy,Low,Medium,N55 41.914,W005 17.203,,,,WGS84,GB
+S2TIN_A,S2TIN,TRUE,2025-09-11,15:00,Sweep_net,30_seconds,540,Metres^2,South_hill,16,None,High,High,N55 41.935,W005 17.240,,,,WGS84,GB
+S2TIN_B,S2TIN,TRUE,2025-09-11,15:00,Sweep_net,30_seconds,540,Metres^2,South_hill,16,None,High,High,N55 41.924,W005 17.220,,,,WGS84,GB
+S2TIN_C,S2TIN,TRUE,2025-09-11,15:00,Sweep_net,30_seconds,540,Metres^2,South_hill,16,None,High,High,N55 41.914,W005 17.203,,,,WGS84,GB
+S2TIN_D,S2TIN,TRUE,2025-09-11,15:00,Sweep_net,30_seconds,540,Metres^2,South_hill,16,None,High,High,N55 41.894,W005 17.194,,,,WGS84,GB
+S2TIN_E,S2TIN,TRUE,2025-09-11,15:00,Sweep_net,30_seconds,540,Metres^2,South_hill,16,None,High,High,N55 41.881,W005 17.177,,,,WGS84,GB
+S2TIN_F,S2TIN,TRUE,2025-09-11,15:00,Sweep_net,30_seconds,540,Metres^2,South_hill,16,None,High,High,N55 41.867,W005 17.160,,,,WGS84,GB
+S2TIN_G,S2TIN,TRUE,2025-09-11,15:00,Sweep_net,30_seconds,540,Metres^2,South_hill,16,None,High,High,N55 41.857,W005 17.140,,,,WGS84,GB
+S2TIN_H,S2TIN,TRUE,2025-09-11,15:00,Sweep_net,30_seconds,540,Metres^2,South_hill,16,None,High,High,N55 41.843,W005 17.134,,,,WGS84,GB
+S2TIN_I,S2TIN,TRUE,2025-09-11,15:00,Sweep_net,30_seconds,540,Metres^2,South_hill,16,None,High,High,N55 41.828,W005 17.120,,,,WGS84,GB
+S2TIN_J,S2TIN,TRUE,2025-09-11,15:00,Sweep_net,30_seconds,540,Metres^2,South_hill,16,None,High,High,N55 41.817,W005 17.100,,,,WGS84,GB
+S1TIN_A,S1TIN,TRUE,2025-09-11,11:00,Sweep_net,30_seconds,540,Metres^2,South_hill,16,None,High,High,N55 41.870,W005 17.278,,,,WGS84,GB
+S1TIN_B,S1TIN,TRUE,2025-09-11,11:00,Sweep_net,30_seconds,540,Metres^2,South_hill,16,None,High,High,N55 41.857,W005 17.272,,,,WGS84,GB
+S1TIN_C,S1TIN,TRUE,2025-09-11,11:00,Sweep_net,30_seconds,540,Metres^2,South_hill,16,None,High,High,N55 41.839,W005 17.280,,,,WGS84,GB
+S1TIN_D,S1TIN,TRUE,2025-09-11,11:00,Sweep_net,30_seconds,540,Metres^2,South_hill,16,None,High,High,N55 41.825,W005 17.275,,,,WGS84,GB
+S1TIN_E,S1TIN,TRUE,2025-09-11,11:00,Sweep_net,30_seconds,540,Metres^2,South_hill,16,None,High,High,N55 41.809,W005 17.269,,,,WGS84,GB
+S1TIN_F,S1TIN,TRUE,2025-09-11,11:00,Sweep_net,30_seconds,540,Metres^2,South_hill,16,None,High,High,N55 41.793,W005 17.255,,,,WGS84,GB
+S1TIN_G,S1TIN,TRUE,2025-09-11,11:00,Sweep_net,30_seconds,540,Metres^2,South_hill,16,None,High,High,N55 41.778,W005 17.249,,,,WGS84,GB
+S1TIN_H,S1TIN,TRUE,2025-09-11,11:00,Sweep_net,30_seconds,540,Metres^2,South_hill,16,None,High,High,N55 41.763,W005 17.235,,,,WGS84,GB
+N3TIP_B,N3TIP,TRUE,2025-09-09,15:00,Pit _fall_trap ,24 _hours,540,Metres^2,North_hill,13,Light,High,Low,N55 42.231,W005 16.724,,,,WGS84,GB
+N3TIP_C,N3TIP,TRUE,2025-09-09,15:00,Pit _fall_trap ,24 _hours,540,Metres^2,North_hill,13,Light,High,Low,N55 42.205,W005 16.686,,,,WGS84,GB
+N3TIP_D,N3TIP,TRUE,2025-09-09,15:00,Pit _fall_trap ,24 _hours,540,Metres^2,North_hill,13,Light,High,Low,N55 42.182,W005 16.640,,,,WGS84,GB
+N3TIN_A,N3TIN,TRUE,2025-09-10,11:00,Sweep_net,30_seconds,540,Metres^2,North_hill,14,Moderate,Medium,Medium,N55 42.253,W005 16.761,,,,WGS84,GB
+N3TIN_B,N3TIN,TRUE,2025-09-10,11:00,Sweep_net,30_seconds,540,Metres^2,North_hill,14,Moderate,Medium,Medium,N55 42.231,W005 16.724,,,,WGS84,GB
+N3TIN_C,N3TIN,TRUE,2025-09-10,11:00,Sweep_net,30_seconds,540,Metres^2,North_hill,14,Moderate,Medium,Medium,N55 42.205,W005 16.686,,,,WGS84,GB
+N3TIN_D,N3TIN,TRUE,2025-09-10,11:00,Sweep_net,30_seconds,540,Metres^2,North_hill,14,Moderate,Medium,Medium,N55 42.182,W005 16.640,,,,WGS84,GB
+N3TIN_E,N3TIN,TRUE,2025-09-10,11:00,Sweep_net,30_seconds,540,Metres^2,North_hill,14,Moderate,Medium,Medium,N55 42.156,W005 16.606,,,,WGS84,GB
+N3TIN_F,N3TIN,TRUE,2025-09-10,11:00,Sweep_net,30_seconds,540,Metres^2,North_hill,14,Heavy,Low,Medium,N55 42.134,W005 16.563,,,,WGS84,GB
+N3TIN_G,N3TIN,TRUE,2025-09-10,11:00,Sweep_net,30_seconds,540,Metres^2,North_hill,14,Heavy,Low,Medium,N55 42.110,W005 16.517,,,,WGS84,GB
+N3TIN_H,N3TIN,TRUE,2025-09-10,11:00,Sweep_net,30_seconds,540,Metres^2,North_hill,14,Heavy,Low,Medium,N55 42.080,W005 16.471,,,,WGS84,GB
+N3TIN_I,N3TIN,TRUE,2025-09-10,11:00,Sweep_net,30_seconds,540,Metres^2,North_hill,14,Heavy,Low,Medium,N55 42.071,W005 16.414,,,,WGS84,GB
+N3TIN_J,N3TIN,TRUE,2025-09-10,11:00,Sweep_net,30_seconds,540,Metres^2,North_hill,14,Heavy,Low,Medium,N55 42.056,W005 16.365,,,,WGS84,GB
+N2TIP_J,N2TIP,TRUE,2025-09-10,15:00,Pit _fall_trap ,24 _hours,540,Metres^2,North_hill,13,Heavy,Low,Medium,N55 42.143,W005 16.419,,,,WGS84,GB
+N2TIN_A,N2TIN,TRUE,2025-09-11,15:00,Sweep_net,30_seconds,540,Metres^2,North_hill,16,None,High,High,N55 42.257,W005 16.594,,,,WGS84,GB
+N2TIN_B,N2TIN,TRUE,2025-09-11,15:00,Sweep_net,30_seconds,540,Metres^2,North_hill,16,None,High,High,N55 42.242,W005 16.577,,,,WGS84,GB
+N2TIN_C,N2TIN,TRUE,2025-09-11,15:00,Sweep_net,30_seconds,540,Metres^2,North_hill,16,None,High,High,N55 42.231,W005 16.551,,,,WGS84,GB
+N2TIN_D,N2TIN,TRUE,2025-09-11,15:00,Sweep_net,30_seconds,540,Metres^2,North_hill,16,None,High,High,N55 42.219,W005 16.534,,,,WGS84,GB
+N2TIN_E,N2TIN,TRUE,2025-09-11,15:00,Sweep_net,30_seconds,540,Metres^2,North_hill,16,None,High,High,N55 42.207,W005 16.514,,,,WGS84,GB
+N2TIN_F,N2TIN,TRUE,2025-09-11,15:00,Sweep_net,30_seconds,540,Metres^2,North_hill,16,None,High,High,N55 42.198,W005 16.488,,,,WGS84,GB
+N2TIN_G,N2TIN,TRUE,2025-09-11,15:00,Sweep_net,30_seconds,540,Metres^2,North_hill,16,None,High,High,N55 42.185,W005 16.468,,,,WGS84,GB
+N2TIN_H,N2TIN,TRUE,2025-09-11,15:00,Sweep_net,30_seconds,540,Metres^2,North_hill,16,None,High,High,N55 42.176,W005 16.448,,,,WGS84,GB
+N2TIN_I,N2TIN,TRUE,2025-09-11,15:00,Sweep_net,30_seconds,540,Metres^2,North_hill,16,None,High,High,N55 42.161,W005 16.431,,,,WGS84,GB
+N2TIN_J,N2TIN,TRUE,2025-09-11,15:00,Sweep_net,30_seconds,540,Metres^2,North_hill,16,None,High,High,N55 42.143,W005 16.419,,,,WGS84,GB
+N1TIN_A,N1TIN,TRUE,2025-09-11,11:00,Sweep_net,30_seconds,540,Metres^2,North_hill,16,None,High,High,N55 42.354,W005 16.577,,,,WGS84,GB
+N1TIN_B,N1TIN,TRUE,2025-09-11,11:00,Sweep_net,30_seconds,540,Metres^2,North_hill,16,None,High,High,N55 42.342,W005 16.557,,,,WGS84,GB
+N1TIN_C,N1TIN,TRUE,2025-09-11,11:00,Sweep_net,30_seconds,540,Metres^2,North_hill,16,None,High,High,N55 42.329,W005 16.537,,,,WGS84,GB
+N1TIN_D,N1TIN,TRUE,2025-09-11,11:00,Sweep_net,30_seconds,540,Metres^2,North_hill,16,None,High,High,N55 42.318,W005 16.517,,,,WGS84,GB
+N1TIN_E,N1TIN,TRUE,2025-09-11,11:00,Sweep_net,30_seconds,540,Metres^2,North_hill,16,None,High,High,N55 42.307,W005 16.494,,,,WGS84,GB
+N1TIN_F,N1TIN,TRUE,2025-09-11,11:00,Sweep_net,30_seconds,540,Metres^2,North_hill,16,None,High,High,N55 42.295,W005 16.471,,,,WGS84,GB
+N1TIN_G,N1TIN,TRUE,2025-09-11,11:00,Sweep_net,30_seconds,540,Metres^2,North_hill,16,None,High,High,N55 42.281,W005 16.451,,,,WGS84,GB
+N1TIN_H,N1TIN,TRUE,2025-09-11,11:00,Sweep_net,30_seconds,540,Metres^2,North_hill,16,None,High,High,N55 42.268,W005 16.434,,,,WGS84,GB
+N1TIN_I,N1TIN,TRUE,2025-09-11,11:00,Sweep_net,30_seconds,540,Metres^2,North_hill,16,None,High,High,N55 42.255,W005 16.414,,,,WGS84,GB
+N1TIN_J,N1TIN,TRUE,2025-09-11,11:00,Sweep_net,30_seconds,540,Metres^2,North_hill,16,None,High,High,N55 42.242,W005 16.396,,,,WGS84,GB

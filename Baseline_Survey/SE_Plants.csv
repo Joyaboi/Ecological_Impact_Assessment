@@ -1,0 +1,59 @@
+﻿eventID,parentEventID,ParentEntry,eventDate,Starttime,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,Temperature (°C),Precipitation,Visibility,Wind ,Latitude,Longitude,Percentcanopycover,Endlatitude,Endlongitude,geodeticDatum,countryCode
+N3P_A,N3P,FALSE,2025-09-10,10:00,Quadrat,Photo Taken,540,Metres,North Hill,14,Light,High,Medium,N55  42.253,W005 16.761,,,,WGS84,GB
+N3P_B,N3P,FALSE,2025-09-10,10:00,Quadrat,Photo Taken,540,Metres,North Hill,14,Light,High,Medium,N55  42.231,W005 16.724,,,,WGS84,GB
+N3P_C,N3P,FALSE,2025-09-10,10:00,Quadrat,Photo Taken,540,Metres,North Hill,14,Moderate,High,High,N55  42.205,W005 16.686,,,,WGS84,GB
+N3P_D,N3P,FALSE,2025-09-10,10:00,Quadrat,Photo Taken,540,Metres,North Hill,14,Light,High,High,N55  42.182,W005 16.640,,,,WGS84,GB
+N3P_E,N3P,FALSE,2025-09-10,10:00,Quadrat,Photo Taken,540,Metres,North Hill,14,Moderate,High,Medium,N55  42.156,W005 16.606,,,,WGS84,GB
+N3P_F,N3P,FALSE,2025-09-10,10:00,Quadrat,Photo Taken,540,Metres,North Hill,14,Heavy,High,Medium,N55  42.134,W005 16.563,,,,WGS84,GB
+N3P_G,N3P,FALSE,2025-09-10,10:00,Quadrat,Photo Taken,540,Metres,North Hill,14,Heavy,High,Medium,N55  42.110,W005 16.517,,,,WGS84,GB
+N3P_H,N3P,FALSE,2025-09-10,10:00,Quadrat,Photo Taken,540,Metres,North Hill,14,Heavy,High,High,N55  42.080,W005 16.471,,,,WGS84,GB
+N3P_I,N3P,FALSE,2025-09-10,10:00,Quadrat,Photo Taken,540,Metres,North Hill,14,Moderate,High,High,N55  42.071,W005 16.414,,,,WGS84,GB
+N3P_J,N3P,FALSE,2025-09-10,10:00,Quadrat,Photo Taken,540,Metres,North Hill,14,Moderate,High,High,N55  42.056,W005 16.365,,,,WGS84,GB
+N1P_A,N1P,FALSE,2025-09-11,10:00,Quadrat,Photo Taken,270,Metres,North Hill,16,None,High,Medium,N55  42.354,W005 16.577,,,,WGS84,GB
+N1P_B,N1P,FALSE,2025-09-11,10:00,Quadrat,Photo Taken,270,Metres,North Hill,16,None ,High,Medium,N55  42.342,W005 16.557,,,,WGS84,GB
+N1P_C,N1P,FALSE,2025-09-11,10:00,Quadrat,Photo Taken,270,Metres,North Hill,16,None ,High,Medium,N55  42.329,W005 16.537,,,,WGS84,GB
+N1P_D,N1P,FALSE,2025-09-11,10:00,Quadrat,Photo Taken,270,Metres,North Hill,16,None ,High,Medium,N55 42.318,W005 16.517,,,,WGS84,GB
+N1P_E,N1P,FALSE,2025-09-11,10:00,Quadrat,Photo Taken,270,Metres,North Hill,16,None ,High,Medium,N55 42.307,W005 16.494,,,,WGS84,GB
+N1P_F,N1P,FALSE,2025-09-11,10:00,Quadrat,Photo Taken,270,Metres,North Hill,16,None ,High,High,N55 42.295,W005 16.471,,,,WGS84,GB
+N1P_G,N1P,FALSE,2025-09-11,10:00,Quadrat,Photo Taken,270,Metres,North Hill,16,None ,High,Medium,N55 42.281,W005 16.451,,,,WGS84,GB
+N1P_H,N1P,FALSE,2025-09-11,10:00,Quadrat,Photo Taken,270,Metres,North Hill,16,None ,High,High,N55 42.268,W005 16.434,,,,WGS84,GB
+N1P_I,N1P,FALSE,2025-09-11,10:00,Quadrat,Photo Taken,270,Metres,North Hill,16,None ,High,High,N55 42.255,W005 16.414,,,,WGS84,GB
+N1P_J,N1P,FALSE,2025-09-11,10:00,Quadrat,Photo Taken,270,Metres,North Hill,16,None ,High,High,N55 42.242,W005 16.396,,,,WGS84,GB
+N2P_A,N2P,FALSE,2025-09-11,14:00,Quadrat,Photo Taken,270,Metres,North Hill,16,None ,High,Low,N55 42.257,W005 16.594,,,,WGS84,GB
+N2P_B,N2P,FALSE,2025-09-11,14:00,Quadrat,Photo Taken,270,Metres,North Hill,16,Light,High,Low,N55 42.242,W005 16.577,,,,WGS84,GB
+N2P_C,N2P,FALSE,2025-09-11,14:00,Quadrat,Photo Taken,270,Metres,North Hill,16,None ,High,Low,N55 42.231,W005 16.551,,,,WGS84,GB
+N2P_D,N2P,FALSE,2025-09-11,14:00,Quadrat,Photo Taken,270,Metres,North Hill,16,None ,High,Low,N55 42.219,W005 16.534,,,,WGS84,GB
+N2P_E,N2P,FALSE,2025-09-11,14:00,Quadrat,Photo Taken,270,Metres,North Hill,16,None ,High,Low,N55 42.207,W005 16.514,,,,WGS84,GB
+N2P_F,N2P,FALSE,2025-09-11,14:00,Quadrat,Photo Taken,270,Metres,North Hill,16,None ,High,Low,N55 42.198,W005 16.488,,,,WGS84,GB
+N2P_G,N2P,FALSE,2025-09-11,14:00,Quadrat,Photo Taken,270,Metres,North Hill,16,None ,High,Low,N55 42.185,W005 16.468,,,,WGS84,GB
+N2P_H,N2P,FALSE,2025-09-11,14:00,Quadrat,Photo Taken,270,Metres,North Hill,16,None ,High,Low,N55 42.176,W005 16.448,,,,WGS84,GB
+N2P_I,N2P,FALSE,2025-09-11,14:00,Quadrat,Photo Taken,270,Metres,North Hill,16,None ,High,Low,N55 42.161,W005 16.431,,,,WGS84,GB
+N2P_J,N2P,FALSE,2025-09-11,14:00,Quadrat,Photo Taken,270,Metres,North Hill,16,None ,High,Low,N55 42.143,W005 16.419,,,,WGS84,GB
+S3P_A,S3P,FALSE,2025-09-10,10:00,Quadrat,Photo Taken,540,Metres,South Hill,14,Moderate,Medium,Medium,N55  42.027,W005  17.134,,,,WGS84,GB
+S3P_B,S3P,FALSE,2025-09-10,10:00,Quadrat,Photo Taken,540,Metres,South Hill,14,Moderate,Medium,Medium,N55  42.003,W005  17.094,,,,WGS84,GB
+S3P_C,S3P,FALSE,2025-09-10,10:00,Quadrat,Photo Taken,540,Metres,South Hill,14,Moderate,Medium,Medium,N55  41.979,W005  17.065,,,,WGS84,GB
+S3P_D,S3P,FALSE,2025-09-10,10:00,Quadrat,Photo Taken,540,Metres,South Hill,14,Moderate,Medium,Medium,N55  41.949,W005  17.042,,,,WGS84,GB
+S3P_E,S3P,FALSE,2025-09-10,10:00,Quadrat,Photo Taken,540,Metres,South Hill,14,Moderate,Medium,Medium,N55  41.922,W005  17.005,,,,WGS84,GB
+S3P_F,S3P,FALSE,2025-09-10,10:00,Quadrat,Photo Taken,540,Metres,South Hill,14,Heavy,Low,Medium,N55  41.902,W005  16.956,,,,WGS84,GB
+S3P_G,S3P,FALSE,2025-09-10,10:00,Quadrat,Photo Taken,540,Metres,South Hill,14,Heavy,Low,Medium,N55  41.907,W005  16.884,,,,WGS84,GB
+S3P_H,S3P,FALSE,2025-09-10,10:00,Quadrat,Photo Taken,540,Metres,South Hill,14,Heavy,Low,Medium,N55  41.862,W005  16.861,,,,WGS84,GB
+S3P_I,S3P,FALSE,2025-09-10,10:00,Quadrat,Photo Taken,540,Metres,South Hill,14,Heavy,Low,Medium,N55  41.843,W005  16.821,,,,WGS84,GB
+S3P_J,S3P,FALSE,2025-09-10,10:00,Quadrat,Photo Taken,540,Metres,South Hill,14,Heavy,Low,Medium,N55  41.828,W005  16.810,,,,WGS84,GB
+S1P_A,S1P,FALSE,2025-09-11,10:00,Quadrat,Photo Taken,210,Metres,South Hill,16,None,High,High,N55  41.870,W005  17.278,,,,WGS84,GB
+S1P_B,S1P,FALSE,2025-09-11,10:00,Quadrat,Photo Taken,210,Metres,South Hill,16,None,High,High,N55  41.857,W005  17.272,,,,WGS84,GB
+S1P_C,S1P,FALSE,2025-09-11,10:00,Quadrat,Photo Taken,210,Metres,South Hill,16,None,High,High,N55  41.839,W005  17.280,,,,WGS84,GB
+S1P_D,S1P,FALSE,2025-09-11,10:00,Quadrat,Photo Taken,210,Metres,South Hill,16,None,High,High,N55  41.825,W005  17.275,,,,WGS84,GB
+S1P_E,S1P,FALSE,2025-09-11,10:00,Quadrat,Photo Taken,210,Metres,South Hill,16,None,High,High,N55  41.809,W005  17.269,,,,WGS84,GB
+S1P_F,S1P,FALSE,2025-09-11,10:00,Quadrat,Photo Taken,210,Metres,South Hill,16,None,High,High,N55  41.793,W005  17.255,,,,WGS84,GB
+S1P_G,S1P,FALSE,2025-09-11,10:00,Quadrat,Photo Taken,210,Metres,South Hill,16,None,High,High,N55  41.778,W005  17.249,,,,WGS84,GB
+S1P_H,S1P,FALSE,2025-09-11,10:00,Quadrat,Photo Taken,210,Metres,South Hill,16,None,High,High,N55  41.763,W005  17.235,,,,WGS84,GB
+S2P_A,S2P,FALSE,2025-09-11,14:00,Quadrat,Photo Taken,270,Metres,South Hill,16,None,High,High,N55  41.935,W005  17.240,,,,WGS84,GB
+S2P_B,S2P,FALSE,2025-09-11,14:00,Quadrat,Photo Taken,270,Metres,South Hill,16,None,High,High,N55  41.924,W005  17.220,,,,WGS84,GB
+S2P_C,S2P,FALSE,2025-09-11,14:00,Quadrat,Photo Taken,270,Metres,South Hill,16,None,High,High,N55  41.914,W005  17.203,,,,WGS84,GB
+S2P_D,S2P,FALSE,2025-09-11,14:00,Quadrat,Photo Taken,270,Metres,South Hill,16,None,High,High,N55  41.894,W005  17.194,,,,WGS84,GB
+S2P_E,S2P,FALSE,2025-09-11,14:00,Quadrat,Photo Taken,270,Metres,South Hill,16,None,High,High,N55  41.881,W005  17.177,,,,WGS84,GB
+S2P_F,S2P,FALSE,2025-09-11,14:00,Quadrat,Photo Taken,270,Metres,South Hill,16,None,High,High,N55  41.867,W005  17.160,,,,WGS84,GB
+S2P_G,S2P,FALSE,2025-09-11,14:00,Quadrat,Photo Taken,270,Metres,South Hill,16,None,High,High,N55  41.857,W005  17.140,,,,WGS84,GB
+S2P_H,S2P,FALSE,2025-09-11,14:00,Quadrat,Photo Taken,270,Metres,South Hill,16,None,High,High,N55  41.843,W005  17.134,,,,WGS84,GB
+S2P_I,S2P,FALSE,2025-09-11,14:00,Quadrat,Photo Taken,270,Metres,South Hill,16,None,High,High,N55  41.828,W005  17.120,,,,WGS84,GB
+S2P_J,S2P,FALSE,2025-09-11,14:00,Quadrat,Photo Taken,270,Metres,South Hill,16,None,High,High,N55  41.817,W005  17.100,,,,WGS84,GB

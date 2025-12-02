@@ -1,0 +1,11 @@
+﻿eventID,parentEventID,ParentEntry,eventDate,Starttime,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,Temperature (C°),Precipitation,Visibility,Wind (Beaufort scale),Latitude,Longitude,Percentcanopycover,Endlatitude,Endlongitude,geodeticDatum,countryCode
+S3MR,N/A,FALSE,2025-09-10,19:00,Camera trap,48 hours,15,metres^2,South hill east,5,None,Clear,no recorded,N 055°69.919,W 005°28.530,100%,N/A,N/A,WGS84,SCO
+N2MR,N/A,FALSE,2025-09-10,19:00,Camera trap,48 hours,15,metres^2,North hill west,no recorded,None,Clear,no recorded,N 055°70.727,W 005°28.102,N/A,N/A,N/A,WGS84,SCO
+S3MR,N/A,FALSE,2025-09-10,19:00,Camera trap,48 hours,15,metres^2,South hill bog,no recorded,None,Clear,no recorded,N 055°69.738,W 005°28.134,N/A,N/A,N/A,WGS84,SCO
+N3MR,N/A,FALSE,2025-09-10,19:00,Camera trap,48 hours,15,metres^2,North hill west,no recorded,None,Clear,no recorded,N 055°70.760,W 005°27.946,N/A,N/A,N/A,WGS84,SCO
+N1MR,N/A,FALSE,2025-09-09,6:55,Walking transect ,Average of 30 minute walk along transect,1.13,kilometres ,North Hill,10,Light-moderate,Clear,2,N 055°70.906,W 005°27.806,N/A,N/A,N/A,WGS84,SCO
+N2MR,N/A,FALSE,2025-09-10,6:55,Walking transect ,Average of 30 minute walk along transect,1.13,kilometres ,North Hill,13,Light-moderate,Clear,no recorded,N 055°70.839,W 005°27.988,N/A,N/A,N/A,WGS84,SCO
+N3MR,N/A,FALSE,2025-09-11,6:55,Walking transect ,Average of 30 minute walk along transect,1.32,kilometres ,North Hill,12,Light-moderate,Clear,4,N 055°70.535,W 005°28.160,N/A,N/A,N/A,WGS84,SCO
+S1MR,N/A,FALSE,2025-09-09,6:55,Walking transect ,Average of 30 minute walk along transect,0.44,kilometres ,South hill,10,Light-moderate,Clear,2,N 055°70.010,W 005°28.508,N/A,N/A,N/A,WGS84,SCO
+S2MR,N/A,FALSE,2025-09-10,6:55,Walking transect ,Average of 30 minute walk along transect,0.49,kilometres ,South hill,13,Light-moderate,Clear,no recorded,N 055°69.870,W 005°28.627,N/A,N/A,N/A,WGS84,SCO
+S3MR,N/A,FALSE,2025-09-11,6:55,Walking transect ,Average of 30 minute walk along transect,0.55,kilometres ,South hill,12,Light-moderate,Clear,no recorded,N 055°69.805,W 005°28.741,N/A,N/A,N/A,WGS84,SCO
